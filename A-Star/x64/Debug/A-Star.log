@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\Lucas\Desktop\Projects\A-Star\Main.cpp(57,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lucas\Desktop\Projects\A-Star\Main.cpp(57,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  A-Star.vcxproj -> C:\Users\Lucas\Desktop\Projects\A-Star\x64\Debug\A-Star.exe
